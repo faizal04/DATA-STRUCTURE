@@ -1,4 +1,4 @@
-    // insert at beginning linked list
+    // insert at beginning of linked list
     #include<stdio.h>
     #include<stdlib.h>
     struct node{
